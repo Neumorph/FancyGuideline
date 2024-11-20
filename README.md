@@ -1,2 +1,2 @@
-# FancyGuideline
-Guideline for Kyutech Fancγ room
+# Fancy Guideline
+Fancγ部屋のガイドライン
